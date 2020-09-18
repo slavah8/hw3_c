@@ -1,3 +1,4 @@
+////Author: Slava Hlushko vqh5091@psu.edu
 #include <readline/readline.h>
 #include <stdlib.h>
 #include <stdio.h>
